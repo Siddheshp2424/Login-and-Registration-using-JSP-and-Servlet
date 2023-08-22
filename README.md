@@ -1,4 +1,4 @@
-# LoginRegistration
+# LoginRegistration 
 Login and Registration using Maven, JSP, Servlet, JSTL, JDBC and SQL. Also it has a Servlet Filter to secure the pages. 
 
 This Login & Registration is an MVC app that uses the so called "JavaBeans" and "DAOs" - standing for Data Access Objects - to handle the interactions with the MySQL database. The app has a connection pool.
