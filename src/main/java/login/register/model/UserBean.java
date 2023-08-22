@@ -1,6 +1,6 @@
 package login.register.model;
 
-public class UserBean {
+public class UserBean { 
 	
 	 private int id;
 	 private String username; 
